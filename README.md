@@ -1,0 +1,2 @@
+# Dogi
+Kripta
